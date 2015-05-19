@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: 677a59631e070d74e8a22be031ef2245
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dwarfRegularPrefab: {fileID: 100000, guid: 42ffaf7483d725e4a83c94226e9a527b, type: 2}
+  - dwarfElitePrefab: {fileID: 100000, guid: 1596671d2f78f5e48aaa076d953cedcb, type: 2}
+  - dwarfLeaderPrefab: {fileID: 100000, guid: a153e24c899e58c40aa6b9cbe3da5b41, type: 2}
+  - elfRegularPrefab: {fileID: 100000, guid: 0a8d7c60433f19d45a30f2fae959e5f7, type: 2}
+  - elfElitePrefab: {fileID: 100000, guid: 26c706dcd6ed616419e08b8e40737af8, type: 2}
+  - elfLeaderPrefab: {fileID: 100000, guid: b751bd811bb9dd940ae6ef8b332f5f07, type: 2}
+  - gondorRegularPrefab: {fileID: 100000, guid: c255d82a9b6626e48a020af22b12ed39,
+      type: 2}
+  - gondorElitePrefab: {fileID: 100000, guid: 319df4f301a35e24cb00b06e8fc2d86b, type: 2}
+  - gondorLeaderPrefab: {fileID: 100000, guid: 129a21d6ba785d74abab1f1c8c6c0b4e, type: 2}
+  - rohanRegularPrefab: {fileID: 100000, guid: e9f8cae8f53a9f543be69aa8cd4efd0c, type: 2}
+  - rohanElitePrefab: {fileID: 100000, guid: b32f625aa8df68c458a472be02a489b9, type: 2}
+  - rohanLeaderPrefab: {fileID: 100000, guid: 450f87356bfb41e41b83e1f3fba3bac0, type: 2}
+  - northmenRegularPrefab: {fileID: 100000, guid: c0716bae54a58a649b5004e2e2b7f543,
+      type: 2}
+  - northmenElitePrefab: {fileID: 100000, guid: d9343375571df6f4280a08f15c32d567,
+      type: 2}
+  - northmenLeaderPrefab: {fileID: 100000, guid: 4d5d9a4cc11aeaa4fafd8ca5a2941383,
+      type: 2}
+  - sauronRegularPrefab: {fileID: 100000, guid: 67bf25d5ca002c34f8bb178f31ee04ff,
+      type: 2}
+  - sauronElitePrefab: {fileID: 100000, guid: 120d8bc9d5bce2442b9d133e648e0ad5, type: 2}
+  - isengardRegularPrefab: {fileID: 100000, guid: dd129c61d9a31824c812d556cfb71ef1,
+      type: 2}
+  - isengardElitePrefab: {fileID: 100000, guid: 4c0e1c3ee72df6949908fa5fd73edf81,
+      type: 2}
+  - eastRegularPrefab: {fileID: 100000, guid: 895510170652e6940a97013da70b6e31, type: 2}
+  - eastElitePrefab: {fileID: 100000, guid: bd114d862e046de478ca0ac4272ff8b1, type: 2}
+  - nazgulPrefab: {fileID: 100000, guid: e1f3f76a652b7ee429b300231c9c1bd4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

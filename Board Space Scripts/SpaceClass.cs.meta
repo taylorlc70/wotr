@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9576f1d90d9569043aeb3c19b861fafd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - thisGame: {instanceID: 0}
+  - armyPrefab: {fileID: 100000, guid: c2c55e18ca8388941a5545742a5d7019, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

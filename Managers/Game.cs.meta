@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d176c733585fef84597b1d540f1931ed
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shadowPlayer: {fileID: 100000, guid: 87a899ac8f36fff4a8ded5c8f2df21b1, type: 2}
+  - shadowAIplayer: {fileID: 100000, guid: e67cbf0107c04614199537191ed74b19, type: 2}
+  - freePeoplePlayer: {fileID: 100000, guid: 3ad060b5f670f7b4692e3f1eafa8a3f7, type: 2}
+  - freePeopleAIPlayer: {fileID: 100000, guid: 40b96a40dd208e047b1b4e1314dadea1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
